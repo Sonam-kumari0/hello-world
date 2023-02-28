@@ -1,0 +1,14 @@
+/* Online C Compiler and Editor */
+#include <stdio.h>
+#include <string.h>
+
+int main()
+{
+    char str[40]//declare the size of character of string 
+    printf ("Enter a string to be reversed ;");
+    scanf ("is" string );
+    
+      //use strrev()function to reverse a string 
+    printf("\nAfter the reverse of a string :%s",strrev(str));
+     return 0;
+}
